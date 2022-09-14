@@ -3,6 +3,7 @@ Módulo 3: Repositorios local y remoto, directorio de trabajo... - Entrega P2P: 
 
 
 Versión: 14 de septiembre de 2022
+
 .............................................................
 
            Editado por I. Sánchez
@@ -134,4 +135,9 @@ $ git push origin main
 
 ----------------------------
 
-Original: https://raw.githubusercontent.com/ging-moocs/MOOC_git_mod3-commit_entrega/master/README.md
+Original: https://github.com/ging-moocs/MOOC_git_mod3-commit_entrega/blob/master/README.md
+
+
+
+
+.
