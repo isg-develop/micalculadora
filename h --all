@@ -1,0 +1,35 @@
+* [33mff9bc37[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m sin(x) resolver conflictos
+*   [33mb450874[m[33m ([m[1;32msine[m[33m)[m Merge branch 'main' into sine
+[32m|[m[33m\[m  
+[32m|[m * [33m5a8c576[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update README.md
+[32m|[m * [33mc62960a[m x^4 button
+* [33m|[m [33m871c033[m sin(x) button
+[33m|[m[33m/[m  
+* [33m89261a8[m x^3 button
+* [33m4580eac[m Create README.md
+* [33mf6d583d[m Commit inicial - modulo 4
+* [33m87de046[m pasar modulo3
+*   [33m47fe530[m tratar de unir
+[34m|[m[35m\[m  
+[34m|[m *   [33m2ec092a[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m Merge pull request #1 from isg-develop/master
+[34m|[m [36m|[m[1;31m\[m  
+[34m|[m [36m|[m * [33m1ebaa83[m editado master
+[34m|[m [36m|[m[36m/[m  
+[34m|[m * [33md18956f[m[33m ([m[1;31morigin/square[m[33m, [m[1;32msquare[m[33m)[m Update README.md
+[34m|[m * [33m6df72f2[m Update README.md
+[34m|[m * [33me26786c[m Initial commit
+* [33m32594ce[m Integracion nuevo post-merge
+*   [33m350b805[m Merge branch 'inverse' into main
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33m96dbbce[m[33m ([m[1;31morigin/inverse[m[33m, [m[1;31morigin/cal_merge[m[33m, [m[1;32minverse[m[33m, [m[1;32mcal_merge[m[33m)[m extension git grahp
+[1;32m|[m * [33m9e63326[m Paso inverso 06a
+[1;32m|[m * [33m6244583[m Paso inverso 06
+* [1;33m|[m [33m3cc5a9d[m Paso inverso 05
+* [1;33m|[m [33m1c69aae[m Paso 4
+* [1;33m|[m [33m9446526[m Update README.md
+* [1;33m|[m [33m758d22b[m Update README.md
+* [1;33m|[m [33mffcdac2[m Initial commit
+* [1;33m|[m [33me7116b6[m[33m ([m[1;31morigin/proceso[m[33m)[m Update index.html
+* [1;33m|[m [33mba6eef6[m x^4 button
+[1;33m|[m[1;33m/[m  
+* [33mb7122be[m x^3 button
