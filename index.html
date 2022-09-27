@@ -1,22 +1,21 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Calculadora</title>
-  <meta charset="utf-8">
-  <script type="text/javascript">
-    const vaciar = () => {
-      document.getElementById("pantalla").value = "";
-    }
-
-    const cuadrado = () => {
-      let num = document.getElementById("pantalla");
-      num.value = num.value * num.value;
-    }
-  </script>
-</head>
-<body>
-  Número:
-  <input type="text" id="pantalla" onclick="vaciar()">
-  <button id="cuadrado" onclick="cuadrado()">x<sup>2</sup></button>
- </body>
+  <head>
+    <title>Calculator</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Calculadora de I Sánchez</h1>
+    Módulo 4
+    <input type="text" id="n1">
+    <p>
+      <button onclick="cube()"> x^3 </button>
+    </p>
+    <script type="text/javascript">
+      function cube() {
+        var num = document.getElementById("n1");
+        num.value = Math.pow(num.value, 3);
+      }
+    </script>
+  </body>
 </html>
